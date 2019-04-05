@@ -1,0 +1,25 @@
+body{
+	font-family: Helvetica;
+	background-color: cyan;
+	}
+
+	img{
+	float: left;
+	width: 30%;
+	border: 3px solid midnightblue;
+	margin-right: 80px;
+
+}
+
+div{
+	float: left;
+}
+
+mark{
+	background-color: mediumspringgreen;
+}
+
+hr{
+	height: 0.5px;
+	background-color: mediumspringgreen;
+}
